@@ -37,10 +37,10 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 ## Demo:
 
-![demo](https://password-generator-pi-ivory.vercel.app/)
+[demo](https://password-generator-pi-ivory.vercel.app/)
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ## Author:
 
-- ![Abdalah Mahmoud](https://github.com/abdamah)
+- [Abdalah Mahmoud](https://github.com/abdamah)
